@@ -95,27 +95,6 @@ The project is organized into the following packages and classes:
 
 ---
 
-## Future Improvements
-
-- **Message Encryption**: Add end-to-end encryption for secure communication.
-- **Message History**: Store chat history and allow users to view past messages.
-- **File Sharing**: Allow users to send files in private chats.
-- **User Status**: Show online/offline status for users.
-- **Database Integration**: Store user profiles and chat history in a database.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push to the branch.
-4. Submit a pull request.
-
----
-
 
 
 Enjoy chatting with **TalkTik**! 🚀
